@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Web Development**.
 - 📝 I regularly write articles on [Quora](https://www.quora.com).
 - 💬 Ask me anything about the **tech stack mentioned below**.
-- 📧 Reach me at **jaypandya1911@gmail.com**.
+- 📧 Reach me at **archanpatel6070@gmail.com**.
 - 📄 Check out my [Resume](#).
 - ⚡ Extra Interests: **Finance, Marketing, Sales, and Management**.
 
