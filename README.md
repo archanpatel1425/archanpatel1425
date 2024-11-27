@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 
-![Archan Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1JAYPANDYA1&show_icons=true&theme=radical)
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=1JAYPANDYA1&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1JAYPANDYA1&layout=compact&theme=radical)
+![Archan Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=archanpatel1425&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=archanpatel1425&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archanpatel1425&layout=compact&theme=radical)
 
 ---
 ## 🤝 Connect with Me
