@@ -51,5 +51,3 @@
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/<your-instagram-profile>/)
 ![Connect Banner](https://camo.githubusercontent.com/f98b19ea5f7cf6143e58c9f47c68ae5d4894885b660e02bb4ba723f64e222a2d/68747470733a2f2f74686f756768746f76657264657369676e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f63665f73656374696f6e315f746f702d312e676966)
 
----
-> Feel free to customize the placeholders with your own images, stats, or links as needed!
