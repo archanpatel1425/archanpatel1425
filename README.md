@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **Web Development**.
+- 🌱 I'm currently working in **Web Development**.
 - 📝 I regularly write articles on [Quora](https://www.quora.com).
 - 💬 Ask me anything about the **tech stack mentioned below**.
 - 📧 Reach me at **archanpatel6070@gmail.com**.
