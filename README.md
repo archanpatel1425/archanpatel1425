@@ -9,11 +9,10 @@
 ## 🚀 About Me
 
 - 🌱 I'm currently working in **Web Development**.
-- 📝 I regularly write articles on [Quora](https://www.quora.com).
 - 💬 Ask me anything about the **tech stack mentioned below**.
 - 📧 Reach me at **archanpatel6070@gmail.com**.
 - 📄 Check out my [Resume](#).
-- ⚡ Extra Interests: **Finance, Marketing, Sales, and Management**.
+- ⚡ Extra Interests: **Finance, Management and Music**.
 
 ---
 ## 🛠 Tech Stack
